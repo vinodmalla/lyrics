@@ -1,9 +1,0 @@
-<repository name="TestNG P2 Composite P2 Repo" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
-  <properties size="2">
-    <property name="p2.timestamp" value="1454086165279"/>
-    <property name="p2.atomic.composite.loading" value="true"/>
-  </properties>
-  <children size="3">
-    <child location="../updatesites/7.1.0.r202001120626"/>
-  </children>
-</repository>
