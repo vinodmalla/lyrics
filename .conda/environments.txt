@@ -1,2 +1,0 @@
-C:\Users\vinu\anaconda3
-C:\Users\vinu\anaconda3\envs\spyder-env
