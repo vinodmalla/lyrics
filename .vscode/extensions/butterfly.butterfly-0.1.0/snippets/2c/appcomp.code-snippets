@@ -1,9 +1,0 @@
-{
-    "Angular form appComp":{
-        "prefix": "^butterfly2cAppComp",
-        "body":["<div class=\"container\">",
-        "<router-outlet></router-outlet>",
-      "</div>"],
-        "description": "contains code inside appComp"
-    }
-}

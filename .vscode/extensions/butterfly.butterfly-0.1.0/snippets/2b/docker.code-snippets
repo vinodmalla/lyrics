@@ -1,9 +1,0 @@
-{
-    "Docker":{
-        "prefix": "^butterfly2b",
-        "body": ["FROM node:alpine",
-        "COPY . /ab",
-        "CMD node /ab/a.js"],
-        "description": "contains code inside docker file"
-}
-}
